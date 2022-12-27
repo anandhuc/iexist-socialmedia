@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677406315841",
+    "project_id": "the-exist",
+    "storage_bucket": "the-exist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677406315841:android:341c3f92a0390b398efdc0",
+        "android_client_info": {
+          "package_name": "com.anandhuc.i_exist_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677406315841-mlek3v7253hmjrtpro7uv2e1dtqa49m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8Ne4ezC7Q9Z_di4O7cvb7krJwWX9gy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677406315841-mlek3v7253hmjrtpro7uv2e1dtqa49m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
